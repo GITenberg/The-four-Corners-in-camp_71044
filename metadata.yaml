@@ -1,0 +1,45 @@
+_repo: The-four-Corners-in-camp_71044
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Smith, Wuanita
+    birthdate: 1866
+    deathdate: 1959
+    gutenberg_agent_id: '31882'
+    url: http://www.gutenberg.org/2009/agents/31882
+    wikipedia: https://en.wikipedia.org/wiki/Wuanita_Smith
+creator:
+  author:
+    agent_name: Blanchard, Amy Ella
+    aliases:
+    - Blanchard, Amy E. (Amy Ella)
+    - Aunt Ella
+    - Ella, Aunt
+    birthdate: 1856
+    deathdate: 1926
+    gutenberg_agent_id: '8406'
+    url: http://www.gutenberg.org/2009/agents/8406
+    wikipedia: https://en.wikipedia.org/wiki/Amy_Ella_Blanchard
+description: ''
+gutenberg_issued: '2023-06-26'
+identifiers:
+  gutenberg: '71044'
+  lccn: '10022724'
+language: en
+pgterms:marc905: 20230403140449blanchard
+pgterms:marc906: '1910'
+pgterms:marc907: us
+production_note: David Edwards, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aUnited States :$bGeorge W. Jacobs & Company, $c1910.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: The Corner series
+subjects:
+- !lcsh 'Camps -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: The four Corners in camp
+url: http://www.gutenberg.org/ebooks/71044
