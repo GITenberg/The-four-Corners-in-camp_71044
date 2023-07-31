@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '31882'
     url: http://www.gutenberg.org/2009/agents/31882
     wikipedia: https://en.wikipedia.org/wiki/Wuanita_Smith
+covers:
+- cover_type: archival
+  image_path: 71044-h/images/cover.jpg
 creator:
   author:
     agent_name: Blanchard, Amy Ella
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8406
     wikipedia: https://en.wikipedia.org/wiki/Amy_Ella_Blanchard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71044#The-four-Corners-in-camp
 gutenberg_issued: '2023-06-26'
 identifiers:
   gutenberg: '71044'
